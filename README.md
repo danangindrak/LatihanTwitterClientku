@@ -1,7 +1,7 @@
 LatihanTwitterClientku
 ==================
 
-
+Latihan membuat Twitter Client menggunakan Oauth dan Spring
 
 Page URL
 ------------------
